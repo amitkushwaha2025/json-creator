@@ -1,0 +1,31 @@
+HROne Frontend Intern Hiring Task
+Deadline : 11:59 pm IST - 21st July, 2025
+Optimal time to learn, solve and code : 2 - 5 hours
+Task
+Create a sample backend application for a JSON Schema Builder using ReactJS and preferably Ant Design or ShadCN, optionally incorporating TypeScript if possible. This task assumes a basic understanding of JavaScript, along with some knowledge of ReactJS and AntD/ShadCN. The objective is to develop a Schema Building experience, as demonstrated in the provided video, utilising React-Hook Forms for the implementation.
+Task Description
+Build a component that allows users to create an interface to define a JSON schema by adding fields dynamically. Users should be able to edit the name/key of a field, add more fields, delete a field, and add nested fields for the 'Nested' type. The supported types are String, Number, and Nested, with the ability to have recursive nested rows.
+Key Tasks:
+Develop a component with the following functionalities:
+Edit the name/key of a field
+Add more fields dynamically
+Delete a field
+Add nested fields for the 'Nested' type (recursively)
+Include a JSON tab that displays the real-time JSON preview of the components. Assume default values for String and Number type rows, as demonstrated in the provided video.
+Note: AntD / ShadCN is already styled with CSS, so the design customization is optional and can be addressed after ensuring the functionality is implemented correctly.
+Demonstration Video
+https://drive.google.com/file/d/1W9o2aNsWff5goaYigeTrll6Qq14qGEte/view?usp=sharing
+Submission Guidelines
+You can host your application on Vercel / Netlify, and then share your hosted application link via this form.
+Make sure your github code repository is public or access is given to user shreybatra for automated testing.
+
+Note: Failure to meet any of the specified conditions will result in immediate rejection of the application.
+
+Note: Using AI tools will result in rejection of application.
+Suggestions
+This component is complex, so we'll break it down into several parts, each assigned a score (unknown to you). Don't be concerned; it's a challenging task for everyone, but it's manageable with proper knowledge of ReactJS and thorough documentation review. Let's start with the basics:
+Begin with creating a component that can render the provided data.
+Integrate an editable input field to update the data.
+Implement functionality to add more rows and update the data.
+Develop a mechanism to delete rows and update the data.
+As you progress through these steps, you'll build the foundation for the more complex aspects of the component.
