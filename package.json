@@ -100,5 +100,8 @@
   },
   "optionalDependencies": {
     "bufferutil": "^4.0.8"
-  }
+  },
+  "description": "��#\u0000 \u0000C\u0000r\u0000e\u0000a\u0000t\u0000e\u0000_\u0000j\u0000s\u0000o\u0000n\u0000_\u0000f\u0000i\u0000l\u0000e\u0000\r\u0000 \u0000#\u0000 \u0000j\u0000s\u0000o\u0000n\u0000-\u0000c\u0000r\u0000e\u0000a\u0000t\u0000o\u0000r\u0000\r\u0000 \u0000",
+  "main": "postcss.config.js",
+  "author": ""
 }
